@@ -6,5 +6,5 @@ def turn_count (board)
   else
     puts "#{position} is empty"
   end
-
+end
 end
