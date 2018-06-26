@@ -7,4 +7,5 @@ def turn_count (board)
     puts "#{position} is empty"
   end
 end
+puts "#{counter}"
 end
