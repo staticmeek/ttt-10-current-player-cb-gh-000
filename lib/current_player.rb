@@ -7,6 +7,5 @@ def turn_count (board)
 
   end
 end
-counter.to_i
-puts "#{counter}"
+counter
 end
